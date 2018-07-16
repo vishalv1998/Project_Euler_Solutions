@@ -1,4 +1,4 @@
-n=2**100
+n=2**1000
 n=str(n)
 sum=0
 for digit in n:

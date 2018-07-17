@@ -111,6 +111,7 @@ if(int(input1)>999 or int(input1)<0):
     print("Please enter a number within the specified range")
 else:
     get_number(input1)
-
+"""
 for i in range(1,1000):
 	get_number(str(i))
+"""
